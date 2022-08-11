@@ -1,0 +1,2 @@
+0 0
+C:\Programming\101173\e\python e2.py 
